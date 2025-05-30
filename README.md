@@ -48,8 +48,8 @@ assets/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone git@github.com:thapakrishnaji/audio_player.git
+cd audio_player
 ```
 
 ### 2. Install Dependencies
